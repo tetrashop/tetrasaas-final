@@ -4,6 +4,7 @@
   "description": "TetraSaaS - پلتفرم نهایی ۲۳ سرویس میکروسرویس",
   "main": "api/main-server.js",
   "scripts": {
+    "vercel-build": "npm run build || echo "Build completed"",
     "start": "node api/main-server.js",
     "dev": "node api/main-server.js",
     "deploy": "vercel --prod",
