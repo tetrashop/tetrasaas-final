@@ -99,3 +99,4 @@ MIT License
 <div align="center">
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
+<!-- Trigger deploy: Mon Aug 17 01:49:48 +0330 2026 -->
